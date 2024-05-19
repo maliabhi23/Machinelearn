@@ -1,0 +1,9 @@
+Numpy is the provide efficient Storage.
+It Save The Space
+It is the Fast
+IT is the Easy to Learn
+
+Creation of the Array with the 5 Ways
+1.list
+
+Numpy Axis 

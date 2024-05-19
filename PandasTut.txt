@@ -1,0 +1,6 @@
+Pandas is the use data Anaylyse purpose
+It Analyze The Bo=ig Data Purpose Used 
+DataFrame is the Nothing But It Like Been Excel Sheet
+Convert to the raw data to excel sheet
+To the access row index use 
+For Column access Column Name use S
